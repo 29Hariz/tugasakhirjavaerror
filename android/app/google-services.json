@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "690148598066",
+    "project_id": "ta-smartroof",
+    "storage_bucket": "ta-smartroof.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:690148598066:android:b7c1c1680efe1a6c2fb72b",
+        "android_client_info": {
+          "package_name": "com.example.tugas_akhir"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvwN3glC_VJOAI2H7Cj451xcXKwaX-ScE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
